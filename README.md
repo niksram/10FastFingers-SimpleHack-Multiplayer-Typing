@@ -5,4 +5,5 @@ Just For Fun!!:-
     keep pressing space-bar and for every key-press, a word gets fed into the input.
 
 Small Glitches:-
+
     the WPM parameter is not taken care yet.
